@@ -57,8 +57,11 @@ CONFIG_FILE=/path/to/custom.conf rhel-monitor
 
 Configuration Example (/etc/rhel-monitor/config.conf)
 (bash)
+
 CPU_THRESHOLD=75
+
 MEM_THRESHOLD=85
+
 DISK_THRESHOLD=95
 
 
