@@ -1,4 +1,4 @@
-# rhel-system-performance-monitorrhel-system-performance-monitor.sh
+# rhel-system-performance-monitor.sh
 
 # Overview
 rhel-system-performance-monitor.sh is a lightweight, all‑in‑one Bash script for monitoring the health and performance of RHEL (Red Hat Enterprise Linux) servers. It delivers a clear, colour‑coded report covering essential system metrics and alerts administrators when resource usage exceeds defined limits.
